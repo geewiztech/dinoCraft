@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>git</name>
+	<comment></comment>
+	<projects>
+		<project>dinoCraft</project>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+</projectDescription>
